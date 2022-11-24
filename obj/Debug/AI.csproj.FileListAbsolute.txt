@@ -1,0 +1,8 @@
+C:\Users\azain\Desktop\c#\AI\bin\Debug\AI.exe.config
+C:\Users\azain\Desktop\c#\AI\bin\Debug\AI.exe
+C:\Users\azain\Desktop\c#\AI\bin\Debug\AI.pdb
+C:\Users\azain\Desktop\c#\AI\obj\Debug\AI.csproj.AssemblyReference.cache
+C:\Users\azain\Desktop\c#\AI\obj\Debug\AI.csproj.SuggestedBindingRedirects.cache
+C:\Users\azain\Desktop\c#\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+C:\Users\azain\Desktop\c#\AI\obj\Debug\AI.exe
+C:\Users\azain\Desktop\c#\AI\obj\Debug\AI.pdb
